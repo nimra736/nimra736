@@ -120,6 +120,26 @@ const nimra = {
   <img src="https://github-profile-trophy.vercel.app/?username=nimra736&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
+<p align="center">
+  <img src="./metrics.svg" alt="Detailed GitHub metrics" />
+</p>
+
+<p align="center">
+  <img src="./metrics-plugins.svg" alt="Coding habits" />
+</p>
+
+---
+
+### 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimra736/nimra736/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimra736/nimra736/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/nimra736/nimra736/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 🧭 What I'm Working On
