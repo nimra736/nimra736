@@ -121,11 +121,7 @@ const nimra = {
 </p>
 
 <p align="center">
-  <img src="./metrics.svg" alt="Detailed GitHub metrics" />
-</p>
-
-<p align="center">
-  <img src="./metrics-plugins.svg" alt="Coding habits" />
+  <img src="./github-metrics.svg" alt="Detailed GitHub metrics" />
 </p>
 
 ---
